@@ -1,0 +1,23 @@
+[
+  {
+    "id": "Q1",
+    "question": "テスト用の設問 1 — 正しいものを選んでください",
+    "options": { "A": "A-1", "B": "B-1", "C": "C-1", "D": "D-1" },
+    "correct_option": "B",
+    "rationale_correct": "B が要件を満たします",
+    "rationale_distractors": { "A": "条件不足", "C": "論点がずれている", "D": "要件外" }
+  },
+  {
+    "id": "Q2",
+    "question": "テスト用の設問 2 — 正しいものを選んでください",
+    "options": [
+      { "key": "A", "text": "A-2" },
+      { "key": "B", "text": "B-2" },
+      { "key": "C", "text": "C-2" },
+      { "key": "D", "text": "D-2" }
+    ],
+    "correct_option": "D",
+    "rationale_correct": "D が最適解です",
+    "rationale_distractors": { "A": "誤解", "B": "条件不足", "C": "根拠が弱い" }
+  }
+]

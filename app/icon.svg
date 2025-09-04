@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256">
+  <!-- Transparent background; paper with green check -->
+  <path d="M64 24h88l40 40v152c0 13.3-10.7 24-24 24H64c-13.3 0-24-10.7-24-24V48c0-13.3 10.7-24 24-24z" fill="#ffffff"/>
+  <path d="M152 24v32c0 13.3 10.7 24 24 24h32" fill="none"/>
+  <path d="M80 136l32 32 64-64" fill="none" stroke="#16a34a" stroke-linecap="round" stroke-linejoin="round" stroke-width="18"/>
+</svg>
