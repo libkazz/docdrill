@@ -1,7 +1,10 @@
+import { Suspense } from "react";
 import PageClient from "../components/PageClient";
 
 export default function Page() {
   return (
-    <PageClient />
+    <Suspense fallback={null}>
+      <PageClient />
+    </Suspense>
   );
 }
